@@ -1,0 +1,6 @@
+framework module Pods_GitHubInfo_MVP_RouterUITests {
+  umbrella header "Pods-GitHubInfo-MVP-RouterUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
